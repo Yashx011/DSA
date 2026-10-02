@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yash1194/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Yash1194/DSA/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Yash1194/DSA/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Yash1194/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Yash1194/DSA/tree/master/0088-merge-sorted-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Yash1194/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Yash1194/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Yash1194/DSA/tree/master/0125-valid-palindrome) |
 ## String
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Yash1194/DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Yash1194/DSA/tree/master/0088-merge-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Yash1194/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
