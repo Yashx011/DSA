@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Yash1194/DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Yash1194/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Yash1194/DSA/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/Yash1194/DSA/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Yash1194/DSA/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Yash1194/DSA/tree/master/1470-shuffle-the-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Yash1194/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Yash1194/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Yash1194/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yash1194/DSA/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Yash1194/DSA/tree/master/0229-majority-element-ii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Yash1194/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yash1194/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yash1194/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Yash1194/DSA/tree/master/0041-first-missing-positive) |
+| [0229-majority-element-ii](https://github.com/Yash1194/DSA/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yash1194/DSA/tree/master/0075-sort-colors) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Yash1194/DSA/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Yash1194/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
