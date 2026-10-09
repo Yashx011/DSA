@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yash1194/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Yash1194/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yash1194/DSA/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Yash1194/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Yash1194/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Yash1194/DSA/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Yash1194/DSA/tree/master/0229-majority-element-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Yash1194/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Yash1194/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Yash1194/DSA/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Yash1194/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Yash1194/DSA/tree/master/0229-majority-element-ii) |
 ## Quicksort
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Yash1194/DSA/tree/master/0493-reverse-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Yash1194/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
