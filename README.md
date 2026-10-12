@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yash1194/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Yash1194/DSA/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Yash1194/DSA/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Yash1194/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yash1194/DSA/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Yash1194/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Yash1194/DSA/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Yash1194/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Yash1194/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/Yash1194/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
