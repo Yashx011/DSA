@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Yash1194/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Yash1194/DSA/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash1194/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Yash1194/DSA/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/Yash1194/DSA/tree/master/1470-shuffle-the-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Yash1194/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Yash1194/DSA/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Yash1194/DSA/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Yash1194/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Yash1194/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
