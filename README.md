@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Yash1194/DSA/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Yash1194/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Yash1194/DSA/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash1194/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Yash1194/DSA/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Yash1194/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Yash1194/DSA/tree/master/0152-maximum-product-subarray) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yash1194/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yash1194/DSA/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Yash1194/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Yash1194/DSA/tree/master/0162-find-peak-element) |
 | [0493-reverse-pairs](https://github.com/Yash1194/DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Yash1194/DSA/tree/master/0704-binary-search) |
