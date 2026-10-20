@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Yash1194/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Yash1194/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Yash1194/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Yash1194/DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yash1194/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/Yash1194/DSA/tree/master/1470-shuffle-the-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Yash1194/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Yash1194/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yash1194/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Yash1194/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Yash1194/DSA/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yash1194/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Yash1194/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
